@@ -1,25 +1,27 @@
-# Hey, I'm Winny! 👋
 
-I'm a high school student who enjoys figuring out how things work—and making them work better.
+## hey, i'm winny!
 
-I'm interested in engineering, electronics, and software, especially projects that solve problems I've experienced myself. I like working with both code and physical designs, and I'm still figuring out exactly where those interests will take me.
+i'm a high school student who enjoys figuring out how things work, and making them work better.
 
-### Things I've built (or attempted to build)
+i'm interested in engineering, electronics, and software, especially projects that solve problems i've experienced myself. i like working with both code and physical designs, and i'm still figuring out exactly where those interests will take me.
 
-**[Ninebot Battery Modification](https://github.com/WinnyT/ninebot-g30lp-battery-modification)**
-:A custom battery-pack project for my electric scooter. I wanted a more affordable way to improve its range, so I explored battery design, 3D printing, and CAD.
+### things i've built (or attempted to build)
 
-**[Mimigotchu](https://github.com/WinnyT/mimigotchu)**
-:A little robotic companion designed to help me spend less time on my phone. Combines PCB design, CAD, electronics, and firmware.
+**[ninebot battery modification](https://github.com/WinnyT/ninebot-g30lp-battery-modification)**
+:a custom battery-pack project for my electric scooter. i wanted a more affordable way to improve its range, so i explored battery design, 3d printing, and cad.
 
-**[Firsta](https://github.com/WinnyT/firsta)**
-:A Slack bot that helps people break the ice during Hack Club hackathon with questions, dares, and random conversation prompts.
+**[mimigotchu](https://github.com/WinnyT/mimigotchu)**
+:a little robotic companion designed to help me spend less time on my phone. combines pcb design, cad, electronics, and firmware.
 
-**[FlyOS](https://github.com/WinnyT/flyos)**
-:A playful interactive map website with little applications and surprises hidden in different locations.
+**[firsta](https://github.com/WinnyT/firsta)**
+:a slack bot that helps people break the ice during hack club hackathons with questions, dares, and random conversation prompts.
 
-### Currently exploring
+**[flyos](https://github.com/WinnyT/flyos)**
+:a playful interactive map website with little applications and surprises hidden in different locations.
 
-I'm working on a Discord-based student carpool system and learning more about embedded systems, engineering design, and how to make projects useful beyond my own computer.
+### currently exploring
 
-*Still figuring things out, one commit at a time.*
+i'm working on a discord-based student carpool system and learning more about embedded systems, engineering design, and how to make projects useful beyond my own computer.
+
+*still figuring things out, one commit at a time.*
+
