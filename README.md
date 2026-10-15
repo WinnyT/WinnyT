@@ -22,7 +22,4 @@ I'm interested in engineering, electronics, and software, especially projects th
 
 I'm working on a Discord-based student carpool system and learning more about embedded systems, engineering design, and how to make projects useful beyond my own computer.
 
-## If you know you know!
-*Do you know why developers are single ?*
-
-*-Because they couldn't commit. (so do i xD)*
+*Still figuring things out, one commit at a time.*
